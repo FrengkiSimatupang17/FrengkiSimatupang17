@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+  <img src="img/mario.gif" width="100%">
 </p>
 
 <h1 align="center">
@@ -9,15 +9,14 @@
 </h1>
 
 <p align="center">
-  Saya adalah seorang mahasiswa <strong>Teknik Komputer</strong> yang bersemangat dalam merancang dan membangun solusi digital yang efisien. Fokus utama saya adalah pengembangan aplikasi web <strong>Full-Stack</strong> yang terstruktur dan dapat menyelesaikan masalah di dunia nyata. Proyek utama saya, <strong>Filltech</strong>, adalah bukti kemampuan saya dalam merancang sistem manajemen bisnis yang komprehensif dari awal hingga akhir.
+  I am a <strong> Computer Engineering Student </strong> passionate about designing and building efficient digital solutions. My primary focus is developing structured, <strong> Full-Stack </strong> web applications that solve real-world problems. My major project, <strong> Filltech </strong>, is a testament to my ability to design comprehensive business management systems from start to finish.
   <br><br>
-  Di luar pengembangan web, saya juga memiliki minat pada dunia <i>Internet of Things</i> (IoT) dan integrasi perangkat keras, yang saya eksplorasi melalui proyek-proyek seperti kontrol dasar menggunakan Arduino.
+  Beyond web development, I also have an interest in the world of the <strong> Internet of Things (IoT) </strong> and hardware integration, which I explore through projects such as basic control using Arduino. I also have an interest in <strong>Cybersecurity</strong>
 </p>
 
-- 🔭 Saat ini saya sedang menyempurnakan **Filltech**, sebuah aplikasi manajemen layanan WiFi berbasis **Laravel** dan **React (Inertia.js)**, yang mencakup manajemen klien, penagihan, hingga penugasan teknisi.
-- 🌱 Saya sedang mendalami arsitektur *microservices* dan integrasi sistem pembayaran (*payment gateway*) untuk memperluas fungsionalitas aplikasi.
-- 💬 Tanya saya tentang **Laravel, React, Inertia.js, Desain Database Relasional, dan pengembangan IoT dasar dengan Arduino**.
-- 📫 Cara menghubungi saya: **frengkisimatupang17@gmail.com**
+- 🔭 I am currently perfecting **Filltech**, a WiFi service management application based on **Laravel** dan **React (Inertia.js)**, which includes client management, billing, and technician assignment.
+- 🌱 I am currently exploring *microservices* architecture and payment gateway integration to extend the application's functionality.
+- 💬 Ask me about **Laravel, React, Inertia.js, Relational Database Design, and basic IoT development with Arduino**.
 
 ---
 
@@ -72,6 +71,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/frengki-hotsabar-parmonangan-simatupang-02992a32b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:simatupangf52@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.instagram.com/simatupang_frengki/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
