@@ -1,30 +1,79 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Frengki Simatupang
-===========================================================================================================================================
-
-I'm a Computer Engineering Student at Institut Teknologi Batam
---------------------------------------------------------------
-
-* 🌍  I'm based in Batam, Riau Island, Indonesia
-* ✉️  You can contact me at [simatupangf52@gmail.com](mailto:simatupangf52@gmail.com)
-* 🧠  I'm currently learning Laravel, React, Cybersecurity
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a>
+<p align="center">
+  <img src="img/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 </p>
 
-### Socials
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Frengki+Simatupang!;A+Full-Stack+Developer;A+Computer+Engineering+Student;An+IoT+Enthusiast" alt="Typing SVG">
+  </a>
+</h1>
 
-<p align="left"> <a href="https://www.github.com/FrengkiSimatupang17" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/www.linkedin.com/in/frengki-hotsabar-parmonangan-simatupang-02992a32b" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<p align="center">
+  Saya adalah seorang mahasiswa <strong>Teknik Komputer</strong> yang bersemangat dalam merancang dan membangun solusi digital yang efisien. Fokus utama saya adalah pengembangan aplikasi web <strong>Full-Stack</strong> yang terstruktur dan dapat menyelesaikan masalah di dunia nyata. Proyek utama saya, <strong>Filltech</strong>, adalah bukti kemampuan saya dalam merancang sistem manajemen bisnis yang komprehensif dari awal hingga akhir.
+  <br><br>
+  Di luar pengembangan web, saya juga memiliki minat pada dunia <i>Internet of Things</i> (IoT) dan integrasi perangkat keras, yang saya eksplorasi melalui proyek-proyek seperti kontrol dasar menggunakan Arduino.
+</p>
 
-<b>My GitHub Stats</b>
+- 🔭 Saat ini saya sedang menyempurnakan **Filltech**, sebuah aplikasi manajemen layanan WiFi berbasis **Laravel** dan **React (Inertia.js)**, yang mencakup manajemen klien, penagihan, hingga penugasan teknisi.
+- 🌱 Saya sedang mendalami arsitektur *microservices* dan integrasi sistem pembayaran (*payment gateway*) untuk memperluas fungsionalitas aplikasi.
+- 💬 Tanya saya tentang **Laravel, React, Inertia.js, Desain Database Relasional, dan pengembangan IoT dasar dengan Arduino**.
+- 📫 Cara menghubungi saya: **frengkisimatupang17@gmail.com**
 
-<a href="http://www.github.com/FrengkiSimatupang17"><img src="https://github-readme-stats.vercel.app/api?username=FrengkiSimatupang17&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="FrengkiSimatupang17's GitHub stats" /></a>
+---
 
-<a href="http://www.github.com/FrengkiSimatupang17"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrengkiSimatupang17&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🛠️ Kumpulan Teknologi (Tech Stack)
 
-<a href="https://github.com/FrengkiSimatupang17" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrengkiSimatupang17&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,javascript,html,css,mysql,git,github,vscode,arduino&perline=6" />
+  </a>
+</p>
 
-<b>Top Repositories</b>
+---
 
-<div width="100%" align="center"><a href="https://github.com/FrengkiSimatupang17/filltech-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FrengkiSimatupang17&repo=filltech-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/FrengkiSimatupang17/ARDUINO-with-Buzzer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=FrengkiSimatupang17&repo=ARDUINO-with-Buzzer&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 🚀 Proyek Unggulan (Featured Projects)
+
+<p align="center">
+  <a href="https://github.com/FrengkiSimatupang17/filltech-app">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrengkiSimatupang17&repo=filltech-app&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/FrengkiSimatupang17/ARDUINO-with-Buzzer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrengkiSimatupang17&repo=ARDUINO-with-Buzzer&theme=tokyonight" />
+  </a>
+</p>
+
+<details>
+<summary><b>Deskripsi Proyek Filltech</b></summary>
+<p>
+  
+**Filltech** adalah sistem manajemen terpusat (Full-Stack) untuk bisnis penyedia layanan WiFi. Aplikasi ini dirancang untuk mengelola seluruh siklus bisnis, mulai dari pendaftaran pelanggan baru, penagihan bulanan otomatis, konfirmasi pembayaran, penugasan teknisi, hingga pelaporan pendapatan secara terstruktur. Dibangun dengan Laravel di sisi backend dan React (via Inertia.js) di sisi frontend.
+
+</p>
+</details>
+
+---
+
+### 📊 Statistik GitHub Saya
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FrengkiSimatupang17&show_icons=true&theme=tokyonight&icon_color=20C20E&hide_border=true&count_private=true" alt="Frengki's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrengkiSimatupang17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FrengkiSimatupang17/FrengkiSimatupang17/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FrengkiSimatupang17/FrengkiSimatupang17/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FrengkiSimatupang17/FrengkiSimatupang17/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📬 Hubungi Saya (Connect with Me)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/frengki-hotsabar-parmonangan-simatupang-02992a32b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/simatupang_frengki/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
