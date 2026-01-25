@@ -40,7 +40,7 @@
 ### 🚀 Proyek Unggulan (Featured Projects)
 
 <p align="center">
-  <a href="https://github.com/FrengkiSimatupang17/filltech-app">
+  <a href="https://github.com/FrengkiSimatupang17/Filltech-Project">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FrengkiSimatupang17&repo=filltech-app&theme=tokyonight" />
   </a>
   <a href="https://github.com/FrengkiSimatupang17/Hexapod_Fire_Suppression_with_Tripod_Gait">
